@@ -2,9 +2,9 @@ class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
         self.ListCommand = 'find'
-        self.CloneCommand = 'clone'
-        self.ArchiveCommand = 'archive'
-        self.ExtractCommand = 'extract'
+        self.CloneCommand = 'appdrive'
+        self.ArchiveCommand = 'zip'
+        self.ExtractCommand = 'unzip'
         self.CountCommand = 'count'
         self.CancelCommand = 'cancel'
         self.StatusCommand = 'status'
