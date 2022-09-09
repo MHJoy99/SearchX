@@ -58,7 +58,7 @@ def restart(update, context):
     os.execl(executable, executable, "-m", "bot")
 
 help_string = '''
-<b><a href='https://github.com/l3v11/SearchX'>SearchX</a></b> - The Ultimate Telegram Bot for Google Drive
+<b><a href='https://t.me/mhjoybots</a></b> - The Ultimate Telegram Bot By MHJoyBots for Google Drive
 
 Choose a help category:
 '''
